@@ -1,0 +1,17 @@
+P TEST:main,#h("testcase.f90",1)
+ V A,a,Real,float,a,2,a(*:*,*:*),#t("testcase.f90",2)
+ V IZROV,izrov,Integer,int,a,1,a(*:*),#t("testcase.f90",3)
+ V IPOSV,iposv,Integer,int,a,1,a(*:*),#t("testcase.f90",3)
+ V M,m,Integer,int,,0,#t("testcase.f90",4)
+ V N,n,Integer,int,,0,#t("testcase.f90",4)
+ V M1,m1,Integer,int,,0,#t("testcase.f90",4)
+ V M2,m2,Integer,int,,0,#t("testcase.f90",4)
+ V M3,m3,Integer,int,,0,#t("testcase.f90",4)
+ V NP,np,Integer,int,,0,#t("testcase.f90",4)
+ V MP,mp,Integer,int,,0,#t("testcase.f90",4)
+ V ICASE,icase,Integer,int,,0,#t("testcase.f90",4)
+ V TEMP,temp,Integer,int,,0,#t("testcase.f90",4)
+ V I,i,Integer,int,,0
+ V J,j,Integer,int,,0
+ V K,k,Integer,int,,0
+EP

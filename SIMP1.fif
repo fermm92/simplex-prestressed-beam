@@ -1,0 +1,13 @@
+S SIMP1,SIMP1,#h("SIMP1.FOR",1)
+ V A,a,Real,float,d,2,i(1:*,1:*)
+ V MP,mp,Integer,int,d,0
+ V NP,np,Integer,int,d,0
+ V MM,mm,Integer,int,d,0
+ V LL,ll,Integer,int,d,1,i(1:*)
+ V NLL,nll,Integer,int,d,0
+ V IABF,iabf,Integer,int,d,0
+ V KP,kp,Integer,int,d,0
+ V BMAX,bmax,Real,float,d,0
+ V K,k,Integer,int,,0
+ V TEST,test,Real,float,,0
+ES

@@ -1,0 +1,28 @@
+S SIMPLX,SIMPLX,#h("SIMPLX.FOR",1)
+ V IS,is,Integer,int,,0
+ V KH,kh,Integer,int,,0
+ V A,a,Real,float,d,2,i(1:*,1:*)
+ V M,m,Integer,int,d,0
+ V N,n,Integer,int,d,0
+ V MP,mp,Integer,int,d,0
+ V NP,np,Integer,int,d,0
+ V M1,m1,Integer,int,d,0
+ V M2,m2,Integer,int,d,0
+ V M3,m3,Integer,int,d,0
+ V ICASE,icase,Integer,int,d,0
+ V IZROV,izrov,Integer,int,d,1,i(1:*)
+ V IPOSV,iposv,Integer,int,d,1,i(1:*)
+ V L1,l1,Integer,int,,1,f(1:100)
+ V L2,l2,Integer,int,,1,f(1:100)
+ V L3,l3,Integer,int,,1,f(1:100)
+ V NL1,nl1,Integer,int,,0
+ V K,k,Integer,int,,0
+ V NL2,nl2,Integer,int,,0
+ V I,i,Integer,int,,0
+ V IR,ir,Integer,int,,0
+ V Q1,q1,Real,float,,0
+ V KP,kp,Integer,int,,0
+ V BMAX,bmax,Real,float,,0
+ V M12,m12,Integer,int,,0
+ V IP,ip,Integer,int,,0
+ES

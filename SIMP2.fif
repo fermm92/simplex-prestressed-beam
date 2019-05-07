@@ -1,0 +1,18 @@
+S SIMP2,SIMP2,#h("SIMP2.FOR",1)
+ V A,a,Real,float,d,2,i(1:*,1:*)
+ V M,m,Integer,int,d,0
+ V N,n,Integer,int,d,0
+ V MP,mp,Integer,int,d,0
+ V NP,np,Integer,int,d,0
+ V L2,l2,Integer,int,d,1,i(1:*)
+ V NL2,nl2,Integer,int,d,0
+ V IP,ip,Integer,int,d,0
+ V KP,kp,Integer,int,d,0
+ V Q1,q1,Real,float,d,0
+ V I,i,Integer,int,,0
+ V II,ii,Integer,int,,0
+ V Q,q,Real,float,,0
+ V K,k,Integer,int,,0
+ V QP,qp,Real,float,,0
+ V Q0,q0,Real,float,,0
+ES

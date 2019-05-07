@@ -1,0 +1,12 @@
+S SIMP3,SIMP3,#h("SIMP3.FOR",1)
+ V A,a,Real,float,d,2,i(1:*,1:*)
+ V MP,mp,Integer,int,d,0
+ V NP,np,Integer,int,d,0
+ V I1,i1,Integer,int,d,0
+ V K1,k1,Integer,int,d,0
+ V IP,ip,Integer,int,d,0
+ V KP,kp,Integer,int,d,0
+ V PIV,piv,Real,float,,0
+ V II,ii,Integer,int,,0
+ V KK,kk,Integer,int,,0
+ES
